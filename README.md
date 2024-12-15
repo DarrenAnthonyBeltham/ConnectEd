@@ -1,6 +1,6 @@
 # Connect Ed.
 
-Selamat datang di repositori **Connect Ed.** – sebuah platform pembelajaran online interaktif yang dirancang untuk memudahkan akses belajar mandiri dan fleksibel bagi semua kalangan. Di era digital seperti saat ini, Connect Ed. hadir untuk menjawab berbagai tantangan pendidikan, sekaligus menghadirkan pengalaman belajar yang memotivasi dan bermakna.
+Selamat datang di repositori **ConnectEd**  ,sebuah platform pembelajaran online interaktif yang dirancang untuk memudahkan akses belajar mandiri dan fleksibel bagi semua kalangan. Di era digital seperti saat ini, Connect Ed. hadir untuk menjawab berbagai tantangan pendidikan, sekaligus menghadirkan pengalaman belajar yang memotivasi dan bermakna.
 
 ## Tentang Connect Ed.
 
