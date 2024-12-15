@@ -1,10 +1,10 @@
 # Connect Ed.
 
-Selamat datang di repositori **ConnectEd**  ,sebuah platform pembelajaran online interaktif yang dirancang untuk memudahkan akses belajar mandiri dan fleksibel bagi semua kalangan. Di era digital seperti saat ini, Connect Ed. hadir untuk menjawab berbagai tantangan pendidikan, sekaligus menghadirkan pengalaman belajar yang memotivasi dan bermakna.
+Selamat datang di repositori **ConnectEd.** , sebuah platform pembelajaran online interaktif yang dirancang untuk memudahkan akses belajar mandiri dan fleksibel bagi semua kalangan. Di era digital seperti saat ini, ConnectEd. hadir untuk menjawab berbagai tantangan pendidikan, sekaligus menghadirkan pengalaman belajar yang memotivasi dan bermakna.
 
-## Tentang Connect Ed.
+## Tentang ConnectEd.
 
-**Connect Ed.** merupakan solusi bagi mereka yang ingin meningkatkan keterampilan dan pengetahuan tanpa batasan ruang dan waktu. Platform ini dirancang untuk:
+**ConnectEd.** merupakan solusi bagi mereka yang ingin meningkatkan keterampilan dan pengetahuan tanpa batasan ruang dan waktu. Platform ini dirancang untuk:
 
 - **Meningkatkan Akses Belajar Mandiri:**  
   Tidak lagi terhambat oleh lokasi geografis atau biaya tinggi. Beragam kelas dapat diakses kapan saja, di mana saja.
